@@ -59,3 +59,5 @@ group :test do
 end
 
 gem "bcrypt"
+
+gem "image_processing"
