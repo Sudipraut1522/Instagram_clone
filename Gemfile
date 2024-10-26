@@ -61,3 +61,5 @@ end
 gem "bcrypt"
 
 gem "image_processing"
+
+gem "simple_form"
